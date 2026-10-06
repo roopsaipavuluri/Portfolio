@@ -1,0 +1,17 @@
+<svg width="640" height="720" viewBox="0 0 640 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="720" rx="48" fill="#0B1120"/>
+  <circle cx="320" cy="220" r="150" fill="url(#bg)" opacity="0.85"/>
+  <circle cx="320" cy="270" r="110" fill="#E2E8F0"/>
+  <path d="M220 550C235 470 280 430 320 430C360 430 405 470 420 550V620H220V550Z" fill="#E2E8F0"/>
+  <circle cx="320" cy="250" r="90" fill="#CBD5E1"/>
+  <path d="M224 547C238 481 278 454 320 454C362 454 402 481 416 547V612H224V547Z" fill="#F8FAFC"/>
+  <path d="M255 258C255 210 292 171 320 171C348 171 385 210 385 258C385 306 348 355 320 355C292 355 255 306 255 258Z" fill="#1E293B"/>
+  <path d="M246 285C260 252 286 232 320 232C354 232 380 252 394 285L415 385H225L246 285Z" fill="#1E293B"/>
+  <text x="320" y="660" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#F8FAFC">Sai</text>
+</svg>

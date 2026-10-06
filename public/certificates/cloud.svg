@@ -1,0 +1,9 @@
+<svg width="640" height="420" viewBox="0 0 640 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" fill="#0B1120"/>
+  <rect x="40" y="40" width="560" height="340" rx="28" fill="#111827" stroke="#1E293B"/>
+  <path d="M170 250C170 206 206 170 250 170C278 170 302 182 318 200C330 181 351 170 376 170C424 170 462 208 462 256C462 289 437 318 402 327H210C186 327 170 310 170 286V250Z" fill="#06B6D4" opacity="0.9"/>
+  <path d="M250 310V168" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round"/>
+  <path d="M206 254L250 214L294 254" stroke="#F8FAFC" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="290" y="180" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="32" font-weight="700">Cloud</text>
+  <text x="288" y="220" fill="#94A3B8" font-family="Arial, sans-serif" font-size="24">Fundamentals</text>
+</svg>
